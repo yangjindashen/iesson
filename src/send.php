@@ -9,4 +9,5 @@ if(fwrite($file, $txt)){
 	echo "2";
 }
 fclose($file);
+
 ?>
